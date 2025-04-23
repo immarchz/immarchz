@@ -1,8 +1,7 @@
 # Hi 👋, I'm Arissawat Tresresiri
-## A passionate frontend developer from Thailand
+## A passionate Software Developer from Thailand
 
-<h3 align="start">Languages and Tools:</h3>
+### Languages and Tools
+<h4>Front End Development</h4>
+<h4>Back End Development</h4>
 
-<p align="left">
- ## Frontend
-</p>
